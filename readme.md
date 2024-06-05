@@ -1,6 +1,6 @@
 # Gallery APP ~ [Demo](https://sammy-techzard.github.io/COA-Challenge/)
 
-This project is an interactive photo gallery built using HTML, CSS, and JavaScript. It was created as part of the COA Take-home Challenge. Thers ia also JS challenge in ```Challenges`` folder.
+This project is an interactive photo gallery built using HTML, CSS, and JavaScript. It was created as part of the COA Take-home Challenge. Thers ia also JS challenge in ```Challenges``` folder.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
