@@ -1,6 +1,6 @@
 # Gallery APP ~ [Demo](https://sammy-techzard.github.io/COA-Challenge/)
 
-This project is an interactive photo gallery built using HTML, CSS, and JavaScript. It was created as part of the COA Take-home Challenge. The project is designed to be responsive, matching the provided Figma designs, and includes hover interactions and cross-browser compatibility.
+This project is an interactive photo gallery built using HTML, CSS, and JavaScript. It was created as part of the COA Take-home Challenge. Thers ia also JS challenge in ```Challenges`` folder.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -15,8 +15,8 @@ The interactive photo gallery is designed to showcase images in a user-friendly 
 
 ## Features
 - Responsive Design: Adapts to different screen sizes and devices.
-- Figma Design Accuracy: Matches the provided Figma designs accurately.
-- Hover Interaction: Displays additional details when a user hovers over a photo.
+- Figma Design Accuracy: Matches the provided Figm designs collectly.
+- Hover Interaction: Displays additional details "Know more" when a user hovers over a photo.
 - Cross-browser Compatibility: Works consistently across modern web browsers (Chrome, Firefox, Safari, Edge).
 
 ## Setup Instructions
@@ -45,6 +45,10 @@ The gallery is responsive and adjusts to different screen sizes.
                ├── assets/
                │   └── img/ (images downloaded from Pixabay)
                │   └── css/style.css
+               │   
+               ├── Challenges/
+               │   └── arrayMap.js
+               │   └── stringTransform.js
                │
                ├── index.html
                └── README.md
