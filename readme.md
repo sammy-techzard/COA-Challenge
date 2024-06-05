@@ -48,7 +48,7 @@ The gallery is responsive and adjusts to different screen sizes.
       COA-Challenge/
                   │
                   ├── assets/
-                  │   └── img/ (images downloaded from Pixabay)
+                  │   └── img/ (images downloaded from Pexels.com)
                   │   └── css/style.css
                   │   
                   ├── Challenges/
