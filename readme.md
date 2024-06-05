@@ -30,8 +30,8 @@ Follow these steps to set up and run the project locally:
 3. for Coding challenge 
     - ```cd Challenges ```
     - if nodeJS installed open terminal and run:
-          1. ```node arrayMap.js``` for challenge one
-          2. ```node stringTransform,js``` for challenge two
+          - ```node arrayMap.js``` for challenge one
+          - ```node stringTransform.js``` for challenge two
 
 ## Usage
 
