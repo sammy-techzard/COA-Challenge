@@ -26,7 +26,12 @@ Follow these steps to set up and run the project locally:
    ```sh
    git clone https://github.com/sammy-techzard/COA-Challenge.git
    cd COA-Challenge
-2. Open index.html
+2. for Photo Gallery, Open ```index.html```
+3. for Coding challenge 
+    - ```cd Challenges ```
+    - if nodeJS installed open terminal and run:
+          1. ```node arrayMap.js``` for challenge one
+          2. ```node stringTransform,js``` for challenge two
 
 ## Usage
 
@@ -39,20 +44,22 @@ The gallery is responsive and adjusts to different screen sizes.
   - src/: Contains input.css which is used for TailwindCSS styles.
   - build/: Contains the compiled project files including assets, and index.html.
   
-  ```plaintext
-    COA-Challenge/
-               │
-               ├── assets/
-               │   └── img/ (images downloaded from Pixabay)
-               │   └── css/style.css
-               │   
-               ├── Challenges/
-               │   └── arrayMap.js
-               │   └── stringTransform.js
-               │
-               ├── index.html
-               └── README.md
-```
+      ```plaintext
+      COA-Challenge/
+                  │
+                  ├── assets/
+                  │   └── img/ (images downloaded from Pixabay)
+                  │   └── css/style.css
+                  │   
+                  ├── Challenges/
+                  │   └── arrayMap.js
+                  │   └── stringTransform.js
+                  │
+                  ├── index.html
+                  └── README.md
+      ```
+
+
 
 ## Author
 This project was created by Samson NIYONIZERA.
